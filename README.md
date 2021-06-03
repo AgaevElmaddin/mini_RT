@@ -7,5 +7,5 @@ The task is to, implement 5 geometric objects: plane, sphere, cylinder, square a
 
 ## How it looks
 
-https://user-images.githubusercontent.com/84783740/120608195-996b1f80-c459-11eb-9f26-a9a6d93368de.mov
+https://user-images.githubusercontent.com/84783740/120610889-4cd51380-c45c-11eb-9071-fb002979db26.mov
 

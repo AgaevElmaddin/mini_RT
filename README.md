@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84783740/120661441-f1714880-c490-11eb-85df-ebe3dd03dcdb.png"></td>
-    <td>R - Resolution<td>
+    <td>R - Resolution<br>
          A - Ambient</td>
   </tr>
 </table>

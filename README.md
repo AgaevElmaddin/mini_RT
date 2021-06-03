@@ -9,7 +9,7 @@ The task is to, implement 5 geometric objects: plane, sphere, cylinder, square a
 
 https://user-images.githubusercontent.com/84783740/120610889-4cd51380-c45c-11eb-9071-fb002979db26.mov
 
-https://user-images.githubusercontent.com/84783740/120633891-561daa80-c473-11eb-9f82-ae2a4b845343.mp4
+https://user-images.githubusercontent.com/84783740/120633891-561daa80-c473-11eb-9f82-ae2a4b845343.mov
 
 https://user-images.githubusercontent.com/84783740/120631590-b7904a00-c470-11eb-97f5-51f2ff4c983f.mov
 

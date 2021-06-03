@@ -1,4 +1,4 @@
-# mini_RT
+# miniRT
 The goal of this project is to generate images using the Raytracing protocol. Those computer generated images will each represent a scene, as seen from a specific angle and position, defined by simple geometric objects, and each with its own lighting system.
 
 Allowed built-in functions: **open**, **close**, **read**, **write**, **malloc**, **free**, **perror**, **strerror**, **exit**. **All functions of the math library**. **All functions of the MinilibX**.
@@ -14,4 +14,5 @@ https://user-images.githubusercontent.com/84783740/120638622-0641e200-c479-11eb-
 https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-9743-341299564727.mp4
 
 ## Usage
-
+1) Do `make` to compile `miniRT`.
+2) After that run `./miniRT {scene.rt}, [--save]`.

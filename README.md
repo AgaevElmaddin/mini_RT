@@ -9,3 +9,4 @@ The task is to, implement 5 geometric objects: plane, sphere, cylinder, square a
 
 https://user-images.githubusercontent.com/84783740/120610889-4cd51380-c45c-11eb-9071-fb002979db26.mov
 
+https://user-images.githubusercontent.com/84783740/120629964-0a690200-c46f-11eb-8030-2a9f694fba14.mp4

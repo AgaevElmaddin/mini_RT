@@ -16,12 +16,10 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
 
 ## About .rt file
 
-<img width="243" alt="Example of .rt file" src="https://user-images.githubusercontent.com/84783740/120661441-f1714880-c490-11eb-85df-ebe3dd03dcdb.png">
-
 <table>
   <tr>
     <td align="center">Example of .rt file</td>
-    <td align="center"></td>
+    <td align="center">Notation</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84783740/120661441-f1714880-c490-11eb-85df-ebe3dd03dcdb.png"></td>

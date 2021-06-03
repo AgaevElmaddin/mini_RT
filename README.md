@@ -13,6 +13,10 @@ https://user-images.githubusercontent.com/84783740/120638622-0641e200-c479-11eb-
 
 https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-9743-341299564727.mp4
 
+## About .rt file
+
+<img width="243" alt="Example of .rt file" src="https://user-images.githubusercontent.com/84783740/120661441-f1714880-c490-11eb-85df-ebe3dd03dcdb.png">
+
 ## Usage
 1) Do `make` to compile `miniRT`.
 2) To execute the program on a window, run `./miniRT [scene].rt`. (**execute the binary with a .rt file**)

@@ -15,6 +15,6 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
 
 ## Usage
 1) Do `make` to compile `miniRT`.
-2) To execute the program on a window, run `./miniRT [scene].rt`. (`execute the binary with a .rt file`)
+2) To execute the program on a window, run `./miniRT [scene].rt`. (**execute the binary with a .rt file**)
 3) To generate a bmp image file, run `./miniRT [scene].rt} --save`. 
 

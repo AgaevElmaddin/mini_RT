@@ -38,9 +38,9 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
 2) Each element first's information is the type identifier (composed by one or two character(s)), followed by all specific information for each object in a strict order such as:
 
 **Resolution** <br>
-`Notation: R`<br>
-`Screen width: integer between 1 and the limit of your screen resolution`<br>
-`Screen height: integer between 1 and the limit of your screen resolution`<br>
+`Notation: R
+Screen width: integer between 1 and the limit of your screen resolution
+Screen height: integer between 1 and the limit of your screen resolution`
 
 **Ambient**<br>
 `Notation: A<br>

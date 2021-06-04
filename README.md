@@ -26,7 +26,9 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
     <td><img src="https://user-images.githubusercontent.com/84783740/120661441-f1714880-c490-11eb-85df-ebe3dd03dcdb.png"></td>
     <td>R - Resolution<br>A - Ambient<br>c - camera<br>l - light<br>pl - plane</td>
     <td>450 - width 450 - height<br>0.1 - lighting 255,255,0 - r,g,b<br>0,0,0 - x,y,z coordinates of the view point
-        0,0,1 - 3d normalized orientation vector 90 - FOV</td>
+        0,0,1 - 3d normalized orientation vector 90 - FOV<br> 0,1,7 - x,y,z coordinates of the light point 
+        0.6 - brightness, 255,255,255 - r,g,b<br>0,2,0 - x,y,z coordinates 0,1,0 - 3d normalized orientation vector 
+        0,0,255 - r,g,b</td>
   </tr>
 </table>
 

@@ -41,56 +41,56 @@ Notation: R<br>
 Screen width: integer between 1 and the limit of your screen resolution<br>
 Screen height: integer between 1 and the limit of your screen resolution<br>
 
-**Ambient**
-Notation: A
-Intensity: double between 0.0 and 1.0
-R,G,B colours: 3 integers between 0 and 255
+**Ambient**<br>
+Notation: A<br>
+Intensity: double between 0.0 and 1.0<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
-**Camera**
-Notation: c
-View point: 3 doubles representing x,y,z coordinates
-3d normalized orientation vector: three doubles between -1.0 and 1.0
-FOV(horizontal field of view): integer between 0 and 180.
+**Camera**<br>
+Notation: c<br>
+View point: 3 doubles representing x,y,z coordinates<br>
+3d normalized orientation vector: three doubles between -1.0 and 1.0<br>
+FOV(horizontal field of view): integer between 0 and 180.<br>
 
-**Light**
-Notation: l
-Position: 3 doubles representing x,y,z coordinates
-Brightness: double between 0.0 and 1.0
-R,G,B colours: 3 integers between 0 and 255
+**Light**<br>
+Notation: l<br>
+Position: 3 doubles representing x,y,z coordinates<br>
+Brightness: double between 0.0 and 1.0<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
-**Sphere**
-Notation: sp
-Center: 3 doubles representing x,y,z coordinates
-Diameter: double larger than 0.0
-R,G,B colours: 3 integers between 0 and 255
+**Sphere**<br>
+Notation: sp<br>
+Center: 3 doubles representing x,y,z coordinates<br>
+Diameter: double larger than 0.0<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
-**Plane**
-Notation: pl
-Origin point: 3 doubles representing x,y,z coordinates
-3d normalized orientation vector: three doubles between -1.0 and 1.0
-R,G,B colours: 3 integers between 0 and 255
+**Plane**<br>
+Notation: pl<br>
+Origin point: 3 doubles representing x,y,z coordinates<br>
+3d normalized orientation vector: three doubles between -1.0 and 1.0<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
-**Square**
-Notation: sq
-Center: 3 doubles representing x,y,z coordinates
-3d normalized orientation vector: three doubles between -1.0 and 1.0
-Side: double larger than 0.0
-R,G,B colours: 3 integers between 0 and 255
+**Square**<br>
+Notation: sq<br>
+Center: 3 doubles representing x,y,z coordinates<br>
+3d normalized orientation vector: three doubles between -1.0 and 1.0<br>
+Side: double larger than 0.0<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
-**Cylinder**
-Notation: cy
-Center: 3 doubles representing x,y,z coordinates
-3d normalized orientation vector: three doubles between -1.0 and 1.0
-Diameter: double larger than 0.0
-Height: double larger than 0.0
-R,G,B colours: 3 integers between 0 and 255
+**Cylinder**<br>
+Notation: cy<br>
+Center: 3 doubles representing x,y,z coordinates<br>
+3d normalized orientation vector: three doubles between -1.0 and 1.0<br>
+Diameter: double larger than 0.0<br>
+Height: double larger than 0.0<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
-**Triangle**
-Notation: tr
-First point: 3 doubles representing x,y,z coordinates
-Second point: 3 doubles representing x,y,z coordinates
-Third point: 3 doubles representing x,y,z coordinates
-R,G,B colours: 3 integers between 0 and 255
+**Triangle**<br>
+Notation: tr<br>
+First point: 3 doubles representing x,y,z coordinates<br>
+Second point: 3 doubles representing x,y,z coordinates<br>
+Third point: 3 doubles representing x,y,z coordinates<br>
+R,G,B colours: 3 integers between 0 and 255<br>
 
 ## Usage
 1) Do `make` to compile `miniRT`.

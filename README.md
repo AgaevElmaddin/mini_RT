@@ -98,5 +98,5 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
 2) To execute the program on a window, run `./miniRT [scene].rt`. (**execute the binary with a .rt file**)
 3) To generate a bmp image file, run `./miniRT [scene].rt --save`.
 4) Press `space bar` to switch view point in case of several cameras in the .rt file.
-5) Press `esc` key or `cross` to exit the program. 
+5) Press `esc` key or :x: to exit the program. 
 

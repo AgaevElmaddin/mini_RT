@@ -39,15 +39,13 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
 
 **Resolution** <br>
 `Notation: R
-
 Screen width: integer between 1 and the limit of your screen resolution
-
 Screen height: integer between 1 and the limit of your screen resolution`
 
 **Ambient**<br>
-`Notation: A<br>
-Intensity: double between 0.0 and 1.0<br>
-R,G,B colours: 3 integers between 0 and 255`<br>
+`Notation: A<br/>
+Intensity: double between 0.0 and 1.0<br/>
+R,G,B colours: 3 integers between 0 and 255`<br/>
 
 **Camera**<br>
 `Notation: c<br>

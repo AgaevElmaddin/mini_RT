@@ -25,12 +25,63 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
   <tr>
     <td><img src="https://user-images.githubusercontent.com/84783740/120661441-f1714880-c490-11eb-85df-ebe3dd03dcdb.png"></td>
     <td>R - Resolution<br>A - Ambient<br>c - camera<br>l - light<br>pl - plane</td>
-    <td>450 - width 450 - height<br>0.1 - lighting 255,255,0 - r,g,b<br>0,0,0 - x,y,z coordinates of the view point
+    <td>450 - width 450 - height<br>0.1 - intensity 255,255,0 - r,g,b<br>0,0,0 - x,y,z coordinates of the view point
         0,0,1 - 3d normalized orientation vector 90 - FOV<br>0,1,7 - x,y,z coordinates of the light point 
         0.6 - brightness, 255,255,255 - r,g,b<br>0,2,0 - x,y,z coordinates 0,1,0 - 3d normalized orientation vector 
         0,0,255 - r,g,b</td>
   </tr>
 </table>
+
+.rt file has a specific structure:
+1) Resolution and ambient light can only be declared once in the scene.
+2) Each element first's information is the type identifier (composed by one or two character(s)), followed by all specific information for each object in a strict order such as:
+**Resolution**
+Notation: R
+Screen width: integer between 1 and the limit of your screen resolution
+Screen height: integer between 1 and the limit of your screen resolution
+**Ambient**
+Notation: A
+Intensity: double between 0.0 and 1.0
+R,G,B colours: 3 integers between 0 and 255
+**Camera**
+Notation: c
+View point: 3 doubles representing x,y,z coordinates
+3d normalized orientation vector: three doubles between -1.0 and 1.0
+FOV(horizontal field of view): integer between 0 and 180.
+**Light**
+Notation: l
+Position: 3 doubles representing x,y,z coordinates
+Brightness: double between 0.0 and 1.0
+R,G,B colours: 3 integers between 0 and 255
+**Sphere**
+Notation: sp
+Center: 3 doubles representing x,y,z coordinates
+Diameter: double larger than 0.0
+R,G,B colours: 3 integers between 0 and 255
+**Plane**
+Notation: pl
+Origin point: 3 doubles representing x,y,z coordinates
+3d normalized orientation vector: three doubles between -1.0 and 1.0
+R,G,B colours: 3 integers between 0 and 255
+**Square**
+Notation: sq
+Center: 3 doubles representing x,y,z coordinates
+3d normalized orientation vector: three doubles between -1.0 and 1.0
+Side: double larger than 0.0
+R,G,B colours: 3 integers between 0 and 255
+**Cylinder**
+Notation: cy
+Center: 3 doubles representing x,y,z coordinates
+3d normalized orientation vector: three doubles between -1.0 and 1.0
+Diameter: double larger than 0.0
+Height: double larger than 0.0
+R,G,B colours: 3 integers between 0 and 255
+**Triangle**
+Notation: tr
+First point: 3 doubles representing x,y,z coordinates
+Second point: 3 doubles representing x,y,z coordinates
+Third point: 3 doubles representing x,y,z coordinates
+R,G,B colours: 3 integers between 0 and 255
 
 ## Usage
 1) Do `make` to compile `miniRT`.

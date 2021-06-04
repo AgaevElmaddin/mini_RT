@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/84783740/120640334-08a53b80-c47b-11eb-
 
 **Resolution** <br>
 `Notation: R`<br>
-Screen width: integer between 1 and the limit of your screen resolution`<br>
+`Screen width: integer between 1 and the limit of your screen resolution`<br>
 `Screen height: integer between 1 and the limit of your screen resolution`<br>
 
 **Ambient**<br>

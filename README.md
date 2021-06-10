@@ -3,7 +3,7 @@ The goal of this project is to generate images using the Raytracing protocol. Th
 
 Allowed built-in functions: **open**, **close**, **read**, **write**, **malloc**, **free**, **perror**, **strerror**, **exit**. **All functions of the math library**. **All functions of the MinilibX**.
 
-The task is to, implement 5 geometric objects: plane, sphere, cylinder, square and triangle.
+The task is to implement 5 geometric objects: a plane, a sphere, a cylinder, a square and a triangle.
 
 ## How it looks
 
